@@ -27,7 +27,7 @@
 						 <h3>聯絡方法</h3>
 						 <p>如有任何查詢, 歡迎致電或電郵我們。</p>
 						 <p><i class="fas fa-phone"></i> 電話: (852) 1234-5678</p>
-						 <p><i class="fas fa-envelope"></i> 電郵: <a href='mailto:xxx@gmail.com'>xxx@gmail.com</a></p>
+						 <p><i class="fas fa-envelope"></i> 電郵: <a href='mailto:xxx@gmail.com'>xxx_2@gmail.com</a></p>
 					  </div>
 					  <div class='col-md-8'>
 						 <h3>查詢表單</h3>
